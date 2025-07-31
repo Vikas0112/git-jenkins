@@ -4,7 +4,7 @@ pipeline {
     triggers {
         githubPush() // Triggered by GitHub Webhook
     }
-h
+
     environment {
         PROJECT_NAME = 'my-simple-project'
     }
