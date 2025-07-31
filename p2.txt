@@ -1,4 +1,4 @@
-"welcome to git-jenkins p2"||||
+nmnmnm"welcome to git-jenkins p2"||||
 now we are testing that poll scm job will run automatically or not.....
 hello  plz check
 hello
